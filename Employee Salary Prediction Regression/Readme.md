@@ -1,4 +1,4 @@
-Employee Salary Prediction
+#####Employee Salary Prediction
 Project Overview
 
 The Employee Salary Prediction project is a machine learning regression project aimed at predicting the salaries of employees based on features such as experience, education, job role, and other relevant factors. The goal is to provide insights into salary trends and help organizations or individuals estimate compensation effectively.
