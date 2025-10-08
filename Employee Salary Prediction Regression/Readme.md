@@ -1,9 +1,9 @@
-#####Employee Salary Prediction
-Project Overview
+**Employee Salary Prediction**
+**Project Overview**
 
 The Employee Salary Prediction project is a machine learning regression project aimed at predicting the salaries of employees based on features such as experience, education, job role, and other relevant factors. The goal is to provide insights into salary trends and help organizations or individuals estimate compensation effectively.
 
-Features
+**Features**
 
 Data Analysis: Understanding the dataset through exploratory data analysis (EDA), including visualizations of key features and their relationship with salary.
 
@@ -29,7 +29,7 @@ Root Mean Squared Error (RMSE)
 
 R² Score
 
-Dataset
+**Dataset**
 
 The dataset contains employee information such as:
 
@@ -45,23 +45,23 @@ Salary: Target variable to predict
 
 (Dataset can be sourced from Kaggle or any HR-related salary dataset.)
 
-Installation
+**Installation**
 
 Clone this repository:
 
 git clone https://github.com/your-username/employee-salary-prediction.git
 
 
-Navigate to the project directory:
+**Navigate to the project directory:**
 
 cd employee-salary-prediction
 
 
-Install dependencies:
+**Install dependencies:**
 
 pip install -r requirements.txt
 
-Usage
+**Usage**
 
 Load the dataset in the data/ folder.
 
@@ -72,13 +72,13 @@ python salary_prediction.py
 
 Explore data, train models, and predict salaries using trained models.
 
-Results
+**Results**
 
 The trained regression models provide accurate salary predictions based on employee features.
 
 Visualizations like feature importance and prediction vs actual plots help in interpreting results.
 
-Future Enhancements
+**Future Enhancements**
 
 Incorporate additional features such as company size, location, or industry trends.
 
@@ -86,7 +86,7 @@ Deploy the model as a web application for interactive salary predictions.
 
 Use deep learning models to capture non-linear relationships more effectively.
 
-Technologies Used
+**Technologies Used**
 
 Python
 
@@ -96,7 +96,7 @@ Matplotlib, Seaborn
 
 Scikit-learn
 
-Author
+**Author**
 
 Nikhil Sankpal
 Data Science Enthusiast | Machine Learning Practitioner
